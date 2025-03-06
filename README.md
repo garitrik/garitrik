@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aritrik
+- 👋 Hi, I’m Aritrik. I am a third-year PhD student in Computer Science at UMD, and I work in the iCOSMOS lab.
 - 👀 I’m interested in Wireless and Quantum sensing.
 - 📫 Use my email aghosh98@umd.edu to reach me. 
 
